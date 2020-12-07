@@ -1,1 +1,1 @@
-# react-redux-simple-calculator
+# react-redux-calculator
