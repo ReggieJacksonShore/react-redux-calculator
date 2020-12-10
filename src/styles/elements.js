@@ -51,7 +51,8 @@ export const Bar = styled.nav`
   display: flex;
   justify-content: space-between;
   align-items: center;
-
+  background-color: #111; 
+  
   @media ${device.mobileL} {
     height: 5vh;
   }
